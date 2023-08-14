@@ -11,6 +11,33 @@ redirect_from:
 
 **学术论文**
 
+1. Jing Wang, Wenjuan Zhang, **Rui Zhu***. A multimodal molecular image fusion method based on relative total variation and co-saliency detection, _Int. J .Imaging Syst. Technol._, 2023, 33(2): 523-546.
+
+2. Yu Wang, Xiaoli Zhang, Bo Huang, Xiongfei Li, Amit Salehin, **Rui Zhu***, RaGMAN: a relativistic average generative multi-adversarial network for pansharpening, _Appl. Soft. Comput._, 2023, 143: 110428.
+  
+3. **Rui Zhu**, Xiongfei Li, Sa Huang, et al. Multimodal medical image fusion using adaptive co-occurrence filter-based decomposition optimization model, _Bioinformatics_, 2022, 38(3): pp. 818-826.
+
+4. **Rui Zhu**, Xiongfei Li, Xiaoli Zhang, et al. HID: The hybrid image decomposition model for MRI and CT fusion, _IEEE J. Biomed. Health Inform._, 2022, 26(2): pp. 727-739.
+
+5. **Rui Zhu**, Xiongfei Li, Yu Wang, et al. Medical image fusion based on pixel-level nonlocal self-similarity prior and optimization, _The 27th International Conference on Database Systems for Advanced Applications (DASFAA-2022)_, 2022, LNCS 13247: pp. 247-254.
+
+6. **Rui Zhu**, Xiongfei Li, Xiaoli Zhang, et al. MRI enhancement based on visual-attention by adaptive contrast adjustment and image fusion, _Multimed. Tools Appl._, 2021, 80(9): pp. 12991-13017.
+
+7. **Rui Zhu**, Xiongfei Li, Xiaoli Zhang, et al. MRI and CT medical image fusion based on synchronized-anisotropic diffusion model, _IEEE Access_, 2020, 8: 91336-91350.
+
+8. Zixuan Song, Xiongfei Li, **Rui Zhu**, et al. ERMF: Edge refinement multi-feature for change detection in bitemporal remote sensing images, _Signal Process.-Image Commun._, 2023, 116: 116964.
+
+9. Siqi Zhang, Xiongfei Li, **Rui Zhu**, et al. Medical image fusion algorithm based on l0 gradient minimization for CT and MRI, _Multimed. Tools Appl_, 2021, 80(14): 21135-21164.
+
+10.	Yu Wang, Xiongfei Li, **Rui Zhu**, et al. A multi-focus image fusion framework based on multi-scale sparse representation in gradient domain, _Signal Process._, 2021, 189: 108254.
+
+11.	Shi Luo, Xiongfei Li, **Rui Zhu**, et al. SFA: Small Faces Attention Face Detector, _IEEE Access_, 2019, 7: 171609-171620.
+
+12. 肖明尧, 李雄飞, **朱芮**. 基于NSST域像素相关分析的医学图像融合, _吉林大学学报：工学版_.
+
+13. 李雄飞, 宋紫萱, **朱芮**, 张小利. 基于多尺度融合的遥感图像变化检测模型, _吉林大学学报：工学版_.
+
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
