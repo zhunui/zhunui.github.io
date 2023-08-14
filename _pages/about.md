@@ -9,6 +9,12 @@ redirect_from:
 ---
 **Rui Zhu**
 
+**研究方向**
+
+医学图像融合 
+
+多模态图像处理
+
 **学术论文**
 
 1. Jing Wang, Wenjuan Zhang, **Rui Zhu***. A multimodal molecular image fusion method based on relative total variation and co-saliency detection, _Int. J .Imaging Syst. Technol._, 2023, 33(2): 523-546.
