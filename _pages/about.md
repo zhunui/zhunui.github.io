@@ -22,31 +22,33 @@ redirect_from:
 
 **学术论文**
 
-1. Jing Wang, Wenjuan Zhang, **Rui Zhu***. A multimodal molecular image fusion method based on relative total variation and co-saliency detection, _Int. J .Imaging Syst. Technol._, 2023, 33(2): 523-546.
+1. Ye Lu, Xiaoli Zhang, Xiongfei Li, **Rui Zhu***, et al. A three-layer decomposition method based on structural texture perception for fusion of CT and MRI images, _Biomed. Signal Process. Control._, 2024, 88: 105518. 
 
-2. Yu Wang, Xiaoli Zhang, Bo Huang, Xiongfei Li, Amit Salehin, **Rui Zhu***, RaGMAN: a relativistic average generative multi-adversarial network for pansharpening, _Appl. Soft. Comput._, 2023, 143: 110428.
+2. Jing Wang, Wenjuan Zhang, **Rui Zhu***. A multimodal molecular image fusion method based on relative total variation and co-saliency detection, _Int. J .Imaging Syst. Technol._, 2023, 33(2): 523-546.
+
+3. Yu Wang, Xiaoli Zhang, Bo Huang, Xiongfei Li, Amit Salehin, **Rui Zhu***, RaGMAN: a relativistic average generative multi-adversarial network for pansharpening, _Appl. Soft. Comput._, 2023, 143: 110428.
   
-3. **Rui Zhu**, Xiongfei Li, Sa Huang, et al. Multimodal medical image fusion using adaptive co-occurrence filter-based decomposition optimization model, _Bioinformatics_, 2022, 38(3): pp. 818-826.
+4. **Rui Zhu**, Xiongfei Li, Sa Huang, et al. Multimodal medical image fusion using adaptive co-occurrence filter-based decomposition optimization model, _Bioinformatics_, 2022, 38(3): pp. 818-826.
 
-4. **Rui Zhu**, Xiongfei Li, Xiaoli Zhang, et al. HID: The hybrid image decomposition model for MRI and CT fusion, _IEEE J. Biomed. Health Inform._, 2022, 26(2): pp. 727-739.
+5. **Rui Zhu**, Xiongfei Li, Xiaoli Zhang, et al. HID: The hybrid image decomposition model for MRI and CT fusion, _IEEE J. Biomed. Health Inform._, 2022, 26(2): pp. 727-739.
 
-5. **Rui Zhu**, Xiongfei Li, Yu Wang, et al. Medical image fusion based on pixel-level nonlocal self-similarity prior and optimization, _The 27th International Conference on Database Systems for Advanced Applications (DASFAA-2022)_, 2022, LNCS 13247: pp. 247-254.
+6. **Rui Zhu**, Xiongfei Li, Yu Wang, et al. Medical image fusion based on pixel-level nonlocal self-similarity prior and optimization, _The 27th International Conference on Database Systems for Advanced Applications (DASFAA-2022)_, 2022, LNCS 13247: pp. 247-254.
 
-6. **Rui Zhu**, Xiongfei Li, Xiaoli Zhang, et al. MRI enhancement based on visual-attention by adaptive contrast adjustment and image fusion, _Multimed. Tools Appl._, 2021, 80(9): pp. 12991-13017.
+7. **Rui Zhu**, Xiongfei Li, Xiaoli Zhang, et al. MRI enhancement based on visual-attention by adaptive contrast adjustment and image fusion, _Multimed. Tools Appl._, 2021, 80(9): pp. 12991-13017.
 
-7. **Rui Zhu**, Xiongfei Li, Xiaoli Zhang, et al. MRI and CT medical image fusion based on synchronized-anisotropic diffusion model, _IEEE Access_, 2020, 8: 91336-91350.
+8. **Rui Zhu**, Xiongfei Li, Xiaoli Zhang, et al. MRI and CT medical image fusion based on synchronized-anisotropic diffusion model, _IEEE Access_, 2020, 8: 91336-91350.
 
-8. Zixuan Song, Xiongfei Li, **Rui Zhu**, et al. ERMF: Edge refinement multi-feature for change detection in bitemporal remote sensing images, _Signal Process.-Image Commun._, 2023, 116: 116964.
+9. Zixuan Song, Xiongfei Li, **Rui Zhu**, et al. ERMF: Edge refinement multi-feature for change detection in bitemporal remote sensing images, _Signal Process.-Image Commun._, 2023, 116: 116964.
 
-9. Siqi Zhang, Xiongfei Li, **Rui Zhu**, et al. Medical image fusion algorithm based on l0 gradient minimization for CT and MRI, _Multimed. Tools Appl_, 2021, 80(14): 21135-21164.
+10. Siqi Zhang, Xiongfei Li, **Rui Zhu**, et al. Medical image fusion algorithm based on l0 gradient minimization for CT and MRI, _Multimed. Tools Appl_, 2021, 80(14): 21135-21164.
 
-10.	Yu Wang, Xiongfei Li, **Rui Zhu**, et al. A multi-focus image fusion framework based on multi-scale sparse representation in gradient domain, _Signal Process._, 2021, 189: 108254.
+11.	Yu Wang, Xiongfei Li, **Rui Zhu**, et al. A multi-focus image fusion framework based on multi-scale sparse representation in gradient domain, _Signal Process._, 2021, 189: 108254.
 
-11.	Shi Luo, Xiongfei Li, **Rui Zhu**, et al. SFA: Small Faces Attention Face Detector, _IEEE Access_, 2019, 7: 171609-171620.
+12.	Shi Luo, Xiongfei Li, **Rui Zhu**, et al. SFA: Small Faces Attention Face Detector, _IEEE Access_, 2019, 7: 171609-171620.
 
-12. 肖明尧, 李雄飞, **朱芮**. 基于NSST域像素相关分析的医学图像融合, _吉林大学学报：工学版_.
+13. 肖明尧, 李雄飞, **朱芮**. 基于NSST域像素相关分析的医学图像融合, _吉林大学学报：工学版_.
 
-13. 李雄飞, 宋紫萱, **朱芮**, 张小利. 基于多尺度融合的遥感图像变化检测模型, _吉林大学学报：工学版_.
+14. 李雄飞, 宋紫萱, **朱芮**, 张小利. 基于多尺度融合的遥感图像变化检测模型, _吉林大学学报：工学版_.
 
 
 
